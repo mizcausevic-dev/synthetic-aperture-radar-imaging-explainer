@@ -11,40 +11,40 @@
       "glyph": "sar",
       "label": "Moving radar platform",
       "role": "path",
-      "x": 0.12,
-      "y": 0.5
+      "x": 0.14,
+      "y": 0.32
     },
     {
       "id": "n2",
       "glyph": "sar",
       "label": "Receive pulses",
       "role": "path",
-      "x": 0.31,
-      "y": 0.5
+      "x": 0.5,
+      "y": 0.32
     },
     {
       "id": "n3",
       "glyph": "sar",
       "label": "Coherent observations along track",
       "role": "path",
-      "x": 0.5,
-      "y": 0.5
+      "x": 0.86,
+      "y": 0.32
     },
     {
       "id": "n4",
       "glyph": "sar",
       "label": "Synthetic aperture computationally",
       "role": "path",
-      "x": 0.69,
-      "y": 0.5
+      "x": 0.14,
+      "y": 0.7
     },
     {
       "id": "n5",
       "glyph": "sar",
       "label": "Radar backscatter image",
       "role": "path",
-      "x": 0.88,
-      "y": 0.5
+      "x": 0.86,
+      "y": 0.7
     }
   ],
   "edges": [
